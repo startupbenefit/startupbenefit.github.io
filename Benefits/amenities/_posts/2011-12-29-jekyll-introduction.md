@@ -1,8 +1,9 @@
 ---
 layout: post
-category : lessons
+category: Play
 tagline: "Supporting tagline"
 tags : [intro, beginner, jekyll, tutorial]
+services: zenbenefits.com
 ---
 {% include JB/setup %}
 

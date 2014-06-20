@@ -1,0 +1,135 @@
+- name: Vision and Values
+  url: visionvalues
+  items:
+   - name: Quarterly update on vision and values
+   - name: Monthly emails with bigger picture
+   - name: Newsletter
+   - name: “Vision bleed” - Randy
+   - name: Development Methodology
+
+- name: Career Development
+  url: careerdevelopment
+  items:
+  - name: Conference budgets
+  - name: Subsidized online classes
+  - name: Professional affiliation subsidies
+  - name: Strong understanding of career track
+  - name: Strong KPI’s
+  - name: Quarterly performance reviews
+  - name: Monthly – employee/employer coffee
+  - name: Mentor program
+
+- name: Amenities
+  url: amenities
+  items:
+  - name: Yoga/Relax room
+  - name: Video games
+  - name: In-office games (foosball, ping pong, pool table, basketball)
+  - name: Bicycles
+  - name: Wellness Programs/Stipend
+  - name: Technology fitout in office
+
+- name: Benefits
+  url: benefits
+  items:
+  - name: Equipment Allowance
+  - name: Health insurance
+  - name: Life Insurance
+  - name: FSA (Flexible Spending Accounts)
+  - name: Dental insurance
+  - name: Mobile phone subsidies
+  - name: Commuter benefits
+  - name: Parking Subsidies
+  - name: PTO (Amount/ Unlimited)
+  - name: Special PTO (Birthday)
+  - name: Childcare
+  - name: Free Stuff/Company Swag/Merchandise
+  - name: Gym Membership/Stipend
+  - name: Employee discounts for own products
+  - name: Reward/Incentive Programs
+  - name: Free Online Services
+  - name: Company Tab
+  - name: Employee onboarding
+
+- name: Office Space
+  url: officespace
+  items:
+  - name: Office Noise
+  - name: Workspace style – open, cube, offices, hot desking, hotelling
+  - name: Remote work
+  - name: Location
+  - name: Artwork/Interior finishes
+  - name: Office Pet/dog friendly office
+  - name: 10 hour workdays, 4 day weeks
+  - name: ½ day Fridays
+
+- name: Play
+  url: play
+  items:
+  - name: Team lunches
+  - name: Fun Committee
+  - name: Happy hour
+  - name: Walking group
+  - name: Monthly outings
+  - name: Site tours
+  - name: Charity events
+  - name: Birthdays
+  - name: Workshops
+  - name: Kids day
+  - name: Holiday events
+  - name: Retreats
+  - name: Sports together – kickball team
+  - name: Fantasy football and March Madness tournaments
+  - name: Barbeques
+  - name: Tickets - Movies, Sports, etc
+  - name: weekly raffles
+  - name: Bocce ball
+
+- name: Office Rules
+  url: rules
+  items:
+  - name: Dress Code - recommend dry cleaning benefits if required business attire
+  - name: Technology
+  - name: Meetings
+
+- name: Communication 
+  url: communication
+  items:
+  - name: Transparency
+  - name: Suggestions box
+  - name: Stand up meetings
+  - name: Monday huddle
+  - name: Friday wrap up
+  - name: Email- All company updates
+  - name: Daily Media Articles
+  - name: link sharing service internal
+
+- name: Food
+  url: food
+  items:
+  - name: Free Coffee
+  - name: Free Refreshments (Non-alcoholic)
+  - name: Free Refreshments (Alcoholic)
+  - name: Free Snacks
+  - name: Expresso machine
+  - name: Lunch subsidies
+  - name: Catering meals (Breakfast, Lunch, or Dinner)
+  - name: Fruit
+  - name: Milk for coffee
+  - name: Themed food events “Donut Friday”, etc
+
+- name: Pay
+  url: pay
+  items:
+  - name: Open salaries
+  - name: Hourly vs Salaried
+  - name: Bonus
+  - name: Options/Stock
+  - name: 401k (with/without Matching)
+
+- name: Learning
+  url: learning
+  items:
+  - name: Lunch and Learn
+  - name: Site Visits
+

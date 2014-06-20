@@ -15,10 +15,10 @@
 
 /* Jekyll Bootstrap Colors */
 h1, h2, h3, h4 {
-  color: #f22430;
+  color: #000000;
 }
 #footer {
-  background-color: #fdcd60;
+  background-color: #000000;
 }
 
 
@@ -77,3 +77,10 @@ h1, h2, h3, h4 {
   background: #57A957;
   border: 1px solid #4c964d;
   color: #FFF; }
+
+.jumbotron {
+  background: url(http://24.media.tumblr.com/4168ab96911c7a350e7cf5982c9114a4/tumblr_n2ybo9U7xn1sfie3io1_1280.jpg) no-repeat center;
+  background-size: cover;
+  color: white;
+  text-shadow: black 0.1em 0.1em;
+  }
