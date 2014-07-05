@@ -19,7 +19,7 @@ tagline: Startup Culture as a Service
         <div class="container">
           <h1 class="text-center">STARTUP BENEFIT</h1>
           <h1 class="text-center">Startup Culture as a Service</h1>
-          <p>Educating and connecting employers to the culture their employees want and the solutions to implement it.</p>
+          <p>Educating and connecting employers to the culture their employees want and the solutions to implement it. <strong>We are cataloging every employee benefit, ever.</strong></p>
           <p></p>
           <p></p>
           <div class="navbar-collapse collapse">
@@ -29,7 +29,7 @@ tagline: Startup Culture as a Service
                 <input type="text" name="Email" placeholder="you@domain.com" class="form-control">
                 <input type="hidden" name="_next" value="http://startupbenefit.github.io/Benefits/index.html">
               </div>
-              <button type="submit" class="btn btn-primary btn-lg">Get Started Now</button>
+              <button type="submit" class="btn btn-primary btn-lg">Beta Preview</button>
             </form>
           </div>
         </div>
@@ -56,8 +56,18 @@ tagline: Startup Culture as a Service
             <p></p>
           </div>
         </div>
-        <div align="center"></div>
-        <hr>
+        <div class="row">
+          <h2> We recommend the best startup benefits:</h2>
+          <div class="col-sm-4" align="center">
+              <img src="http://images.vcpost.com/data/images/full/13055/zenefits.jpg?w=590">
+          </div>
+          <div class="col-sm-4" align="center">
+              <img src="http://images.vcpost.com/data/images/full/13055/zenefits.jpg?w=590">
+          </div>
+          <div class="col-sm-4" align="center">
+              <img src="http://images.vcpost.com/data/images/full/13055/zenefits.jpg?w=590">            
+          </div>
+        </div>
         <footer align="center">
           <p>&copy; Reculture 2014&nbsp;
             <a href="mailto:graham1776@gmail.com?Subject=Hello">Contact Us</a></p>

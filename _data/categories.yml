@@ -1,36 +1,79 @@
 - name: Vision and Values
+  index: 0
   url: visionvalues
+  copy: vision valuesLorem ipsum dolor sit amet, nam eu altera repudiare, no his sale ferri veniam. Sale feugiat vivendo mei cu. Ullum euripidis ad cum, eos ut duis ubique complectitur, mei mundi eirmod te. Usu putent utamur detraxit in, menandri salutatus est ei. Persius laoreet quo te, soleat oportere definitionem ut vel.
   items:
    - name: Quarterly update on vision and values
    - name: Monthly emails with bigger picture
    - name: Newsletter
-   - name: “Vision bleed” - Randy
+   - name: Communicating Vision
    - name: Development Methodology
 
 - name: Career Development
+  index: 1
   url: careerdevelopment
+  copy: carerer developmentLorem ipsum dolor sit amet, nam eu altera repudiare, no his sale ferri veniam. Sale feugiat vivendo mei cu. Ullum euripidis ad cum, eos ut duis ubique complectitur, mei mundi eirmod te. Usu putent utamur detraxit in, menandri salutatus est ei. Persius laoreet quo te, soleat oportere definitionem ut vel.
   items:
   - name: Conference budgets
+    copy: copy copy copy
+    reccomendations:
+    - name: Meetup.com
+      url: http://www.meetup.com
+    - name: All Conferences
+      url: http://www.allconferences.com
+    - name: Eventbrite.com
+      url: http://www.eventbrite.com
   - name: Subsidized online classes
+    copy: copy copy copy
+    reccomendations:
+    - name: Code School
+      url: http://www.codeschool.com
+    - name: Khan Academy
+      url: http://www.khanacademy.com
+    - name: Coursera
+      url: http://www.coursera.com
+    - name: Lynda
+      url: http://www.lynda.com
+    - name: Udemy
+      url: http://www.udemy.com
   - name: Professional affiliation subsidies
   - name: Strong understanding of career track
   - name: Strong KPI’s
   - name: Quarterly performance reviews
+    copy:
+    reccomendations:
+    - name: Betterworks.com
+      url: http://www.betterworks.com
   - name: Monthly – employee/employer coffee
   - name: Mentor program
 
 - name: Amenities
+  index: 2
   url: amenities
+  copy: Amenities copy Amenities CopyLorem ipsum dolor sit amet, nam eu altera repudiare, no his sale ferri veniam. Sale feugiat vivendo mei cu. Ullum euripidis ad cum, eos ut duis ubique complectitur, mei mundi eirmod te. Usu putent utamur detraxit in, menandri salutatus est ei. Persius laoreet quo te, soleat oportere definitionem ut vel.
   items:
   - name: Yoga/Relax room
+    copy: copy copy copy
+    reccomendations:
+    - name: Yoga Journal
+      url: http://www.yogajournal.com
+    - name: Yoga Inc
+      url: http://www.yoga.com
+    - name: Yogaworks
+      url: http://www.yogaworks.com
+    - name: fun Inc
+      url: http://www.fun.com
   - name: Video games
+    copy: copy copy copy
   - name: In-office games (foosball, ping pong, pool table, basketball)
   - name: Bicycles
   - name: Wellness Programs/Stipend
   - name: Technology fitout in office
 
 - name: Benefits
+  copy: this is the benefits copy!
   url: benefits
+  index: 3
   items:
   - name: Equipment Allowance
   - name: Health insurance
@@ -39,22 +82,33 @@
   - name: Dental insurance
   - name: Mobile phone subsidies
   - name: Commuter benefits
+    copy: $100 Uber car credit each month or car service for late nights.
   - name: Parking Subsidies
   - name: PTO (Amount/ Unlimited)
   - name: Special PTO (Birthday)
   - name: Childcare
   - name: Free Stuff/Company Swag/Merchandise
+    copy: There's no better way to get your company name out there than by arming your team with branded goodies
   - name: Gym Membership/Stipend
   - name: Employee discounts for own products
   - name: Reward/Incentive Programs
+    copy: Thrillist offers over-the-top breakfasts when a big deal is closed. Tumblr has "referral madness" — a teammate who refers someone who's hired gets a stipend for a team event, such as an outing to Medieval Times.
   - name: Free Online Services
+    copy: Pandora, Rdio, etc
   - name: Company Tab
+    copy: Local coffeeshop, restaurant, put it on the company tab.	
   - name: Employee onboarding
+    copy: A creative welcome package. Warby Parker's includes a founder's favorite pretzels and a gift certificate to a Thai restaurant, since the founders lived off Thai food during their startup phase. ModCloth's has pens, notepads, a water bottle, mug, mousepad and tote.	
 
 - name: Office Space
   url: officespace
+  index: 4
   items:
   - name: Office Noise
+    copy:
+    reccomendations:
+    - name: Coffitivity
+      url: http://www.coffitivity.com
   - name: Workspace style – open, cube, offices, hot desking, hotelling
   - name: Remote work
   - name: Location
@@ -65,6 +119,7 @@
 
 - name: Play
   url: play
+  index: 5
   items:
   - name: Team lunches
   - name: Fun Committee
@@ -87,12 +142,14 @@
 
 - name: Office Rules
   url: rules
+  index: 6
   items:
   - name: Dress Code - recommend dry cleaning benefits if required business attire
   - name: Technology
   - name: Meetings
 
 - name: Communication 
+  index: 7
   url: communication
   items:
   - name: Transparency
@@ -105,6 +162,7 @@
   - name: link sharing service internal
 
 - name: Food
+  index: 8
   url: food
   items:
   - name: Free Coffee
@@ -119,6 +177,7 @@
   - name: Themed food events “Donut Friday”, etc
 
 - name: Pay
+  index: 9
   url: pay
   items:
   - name: Open salaries
@@ -129,6 +188,7 @@
 
 - name: Learning
   url: learning
+  index: 10
   items:
   - name: Lunch and Learn
   - name: Site Visits

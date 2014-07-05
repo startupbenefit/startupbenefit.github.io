@@ -1,38 +1,38 @@
 ---
 layout: page
-title: "Benefits"
+title: "Benefits-BETA"
 description: ""
 group: navigation
 ---
 {% include JB/setup %}
 
-<table class="table table-hover table-condensed">
-  {% for category in site.data.categories %}
+<div class="table-responsive">
+<table class="table">
         <thead>
           <tr>
-            <th class="col-sm-2"></th>
-            <th class="col-sm-4"></th>
-            <th class="col-sm-2"></th>
+            <th></th>
+            <th></th>
+            <th></th>
           </tr>
         </thead>
         <tbody>
+          {% for category in site.data.categories %}
           <tr>
             <td>
               <h1><a href="{{ BASE_PATH }}/Benefits/{{ category.url }}">
                 {{ category.name }}
                 </a></h1>
             </td>
-            <td>
+            <td style='vertical-align:middle'>
               <ul>
-                {% for item in category.items %}
-                <li>{{item.name}}</li>
-                {% endfor %}
+                {{category.copy}}
               </ul>
             </td>
             <td><a href="{{ BASE_PATH }}/Benefits/{{ category.url }}">
-              <h1>Explore <span class="glyphicon glyphicon-arrow-right"</span></h1></a>
+              <h1>Explore</h1></a>
             </td>
           </tr>
           </tbody>
   {% endfor %}
 </table>
+</div>
