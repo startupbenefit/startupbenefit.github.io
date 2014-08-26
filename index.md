@@ -62,10 +62,10 @@ tagline: Startup Culture as a Service
               <img src="http://images.vcpost.com/data/images/full/13055/zenefits.jpg?w=590">
           </div>
           <div class="col-sm-4" align="center">
-              <img src="http://images.vcpost.com/data/images/full/13055/zenefits.jpg?w=590">
+              <img src="https://d3cillb28jbbby.cloudfront.net/assets/logos/290x290-3e11fb4e06bb00360a100f6387b157da.png">
           </div>
           <div class="col-sm-4" align="center">
-              <img src="http://images.vcpost.com/data/images/full/13055/zenefits.jpg?w=590">            
+              <img src="http://tech.co/wp-content/uploads/2012/05/zerocater.jpg">            
           </div>
         </div>
         <footer align="center">
