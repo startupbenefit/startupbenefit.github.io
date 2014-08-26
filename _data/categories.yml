@@ -1,21 +1,49 @@
 - name: Vision and Values
   index: 0
   url: visionvalues
-  copy: vision valuesLorem ipsum dolor sit amet, nam eu altera repudiare, no his sale ferri veniam. Sale feugiat vivendo mei cu. Ullum euripidis ad cum, eos ut duis ubique complectitur, mei mundi eirmod te. Usu putent utamur detraxit in, menandri salutatus est ei. Persius laoreet quo te, soleat oportere definitionem ut vel.
+  copy: Having a vision and values is important. On of the hardest things for a company to do is to continually give an employee a sense of where the company is, where it is going, and how each individual fits in. You should be able to answer the following questions- Why are we here? What problem are we solving? How are we adding to society? And why should I follow you? Not only having a vision, but updating it often and communicating it regularly are key!
   items:
-   - name: Quarterly update on vision and values
-   - name: Monthly emails with bigger picture
-   - name: Newsletter
    - name: Communicating Vision
+     copy: Your employees need to know the future. They need to be on the same page as you, and you need ways to communicate with them regularly. This is a great opportunity to have a company-wide lunch, an all hands meeting, or a company newsletter.
+     reccomendations:
+     - name: HBR - 8 Ways to Energize your Team
+       url: http://blogs.hbr.org/2011/08/eight-ways-to-energize-your-te/
+     - name: Fast Company - 5 Rules for Making your Vision Stick
+       url: http://www.fastcompany.com/3000998/5-rules-making-your-vision-stick  
+   - name: Newsletter
+     copy: A newsletter is a great way to communicate with lots of employees at once. Update everyone on business objectives, new products created, marriages and babies, and upcoming events. These services will get you started.
+     reccomendations:
+     - name: Constant Contact
+       url: http://www.constantcontact.com
+     - name: Mail Chimp
+       url: http://www.mailchimp.com
    - name: Development Methodology
-
+     copy: How does your company deliver products to the market and make them better? Do you have a development methodology like Agile or Scrum or quality improvement methods like Six Sigma or Lean? Here are some reccomendations to get you started.
+     reccomendations:
+     - name: Scrum Development
+       url: http://en.wikipedia.org/wiki/Scrum_(software_development)
+     - name: Agile Development
+       url: http://en.wikipedia.org/wiki/Agile_software_development
+     - name: Lean Development
+       url: http://en.wikipedia.org/wiki/Lean_software_development
+   - name: Values and Mission
+     copy: Having a vision and mission statement can be an excellent way to keep a team focused, a rallying cry to get behind. While they don't solve problems, they are a great framework to build a business around.
+     reccomendations:
+     - name: Entreprenuer - How to Write Your Mission Statement
+       url: http://www.entrepreneur.com/article/65230
+     - name: MissionStatements.com
+       url: http://www.missionstatements.com/
+     - name: Fast Company - How to Write a Mission Statement that isn't Dumb
+       url: http://www.fastcompany.com/1400930/how-write-mission-statement-isnt-dumb
+     - name: Fast Company - Forget the Mission Statement. What's your Mission Question?
+       url: http://www.fastcodesign.com/1672137/forget-the-mission-statement-whats-your-mission-question
 - name: Career Development
   index: 1
   url: careerdevelopment
-  copy: carerer developmentLorem ipsum dolor sit amet, nam eu altera repudiare, no his sale ferri veniam. Sale feugiat vivendo mei cu. Ullum euripidis ad cum, eos ut duis ubique complectitur, mei mundi eirmod te. Usu putent utamur detraxit in, menandri salutatus est ei. Persius laoreet quo te, soleat oportere definitionem ut vel.
+  copy: Employees are happier when you are thinking of them. Not only thier pay and their benefits, but also thier future. How are they going to develop from that junior analyst to CEO? How can you be sure they stick around to be developed? By not only laying out a plan for them to grow, but also giving them an opportunity to do so will play a pivotal role in the development of your team.
   items:
-  - name: Conference budgets
-    copy: copy copy copy
+  - name: Trade Conferences
+    copy: Conferences are an excellent way to develop employees, encourage intracompany communication, learning new technologies, and having fun with coworkers. Many startups offer employees significant conference budgets as a part thier benefit package to encourage them to attend and share what they have learned. Conferences are highly specific to their industries, but here are a few places to get you started":"
     reccomendations:
     - name: Meetup.com
       url: http://www.meetup.com
@@ -24,7 +52,7 @@
     - name: Eventbrite.com
       url: http://www.eventbrite.com
   - name: Subsidized online classes
-    copy: copy copy copy
+    copy: Many businesses are now offering subsidized online classes for thier employees. This enables employees to better thier craft or to learn a new skill they didn't previously have. Many of the reccomendations here offer company-level subscriptions so anyone can log in and learn.
     reccomendations:
     - name: Code School
       url: http://www.codeschool.com
@@ -36,24 +64,65 @@
       url: http://www.lynda.com
     - name: Udemy
       url: http://www.udemy.com
-  - name: Professional affiliation subsidies
+  - name: Professional Affiliations, Certifications, Licenses
+    copy: Broker? CFA? CISSP? CSM? MCP? Often your industry requires proffessional certifications, affiliations and licenses. A great way to improve employee retention is to offer them the continuing education, fees, and the time needed to stay current on thier certifications
+    reccomendations:
+    - name: 
+      url:
+    - name:
+      url:
+  - name: Personality Testing
+    copy: Personality testing is an awesome way for you to understand your employees. Are these people suited for thier position? Are they going to be a culture fit? A quick (or not so quick) test can help you finalize and understand who you are and who you are working with.
+    reccomendations:
+    - name: Johnson O'Connor Research Foundation
+      url: http://www.jocrf.org
+    - name: Big Five Personality Test
+      url: http://www.outofservice.com/bigfive/
+    - name: StrengthsFinder 2.0
+      url: https://www.gallupstrengthscenter.com
+    - name: Myers Briggs Type Test
+      url: http://www.16personalities.com/free-personality-test
+  - name: Monthly – employee/employer coffee
+    copy:
+    reccomendations:
+    - name: 
+      url: 
+  - name: Mentor program
+    copy:
+    reccomendations:
+    - name: Mentii
+      url: https://mentii.com/
+    - name: Codementor
+      url: http://www.codementor.io
+    - name: Doerhub
+      url: http://www.doerhub.com/
+  - name: Career Development
+    copy:
+    reccomendations:
+    - name: CoffeeMe
+      url: http://www.coffeeme.in/
   - name: Strong understanding of career track
+    copy: 
+    reccomendations:
+    - name: 
+      url:
   - name: Strong KPI’s
+    copy: Making sure everyone knows thier role and responsibility is crucial, in addition to helping them see what they will be reviewed against in the year ahead.
+    reccomendations:
+    - name: 
+      url:
   - name: Quarterly performance reviews
     copy:
     reccomendations:
     - name: Betterworks.com
       url: http://www.betterworks.com
-  - name: Monthly – employee/employer coffee
-  - name: Mentor program
-
 - name: Amenities
   index: 2
   url: amenities
-  copy: Amenities copy Amenities CopyLorem ipsum dolor sit amet, nam eu altera repudiare, no his sale ferri veniam. Sale feugiat vivendo mei cu. Ullum euripidis ad cum, eos ut duis ubique complectitur, mei mundi eirmod te. Usu putent utamur detraxit in, menandri salutatus est ei. Persius laoreet quo te, soleat oportere definitionem ut vel.
+  copy: Having the right place to work is critical. Not only does an office space need quiet spaces, noisy spaces, interacting spaces, but also fun spaces. Employees need easy ways to move around the neighborhood too. Offering onsite amenities like yoga rooms, in-office games, bicycles, and wellness programs will ensure employees are happy while at work.
   items:
   - name: Yoga/Relax room
-    copy: copy copy copy
+    copy: 
     reccomendations:
     - name: Yoga Journal
       url: http://www.yogajournal.com
@@ -61,45 +130,166 @@
       url: http://www.yoga.com
     - name: Yogaworks
       url: http://www.yogaworks.com
-    - name: fun Inc
-      url: http://www.fun.com
+    - name: AnyPerk
+      url: http://www.AnyPerk.com
+  - name: Cafe/Kitchen
+    copy: 
+    reccomendations:
+    - name: 
+      url: 
   - name: Video games
-    copy: copy copy copy
+    copy: 
+    reccomendations:
+    - name: 
+      url:
   - name: In-office games (foosball, ping pong, pool table, basketball)
+    copy: 
+    reccomendations:
+    - name: 
+      url:
   - name: Bicycles
-  - name: Wellness Programs/Stipend
+    copy: 
+    reccomendations:
+    - name: CitiBike
+      url: https://www.citibikenyc.com/
+  - name: Wellness Programs
+    copy: Wellness plans offer employees development and support beyond thier careers. Programs including physical and mental health screening, smoking cessation, weight management, and lifestyle coaching are great opportunities to keep your workforce happy and healthy.
+    reccomendations:
+    - name: AnyPerk
+      url: http://www.AnyPerk.com
+    - name: The Energy Project
+      url: http://www.theenergyproject.com
+    - name: Mental Health America - Workplace Wellness
+      url: http://www.mentalhealthamerica.net/workplace-wellness
+    - name: ComPsych - Health and Wellness Programs
+      url: http://www.compsych.com/services/health-and-wellness-programs
   - name: Technology fitout in office
+    copy: 
+    reccomendations:
+    - name: 
+      url:
 
 - name: Benefits
-  copy: this is the benefits copy!
+  copy: Benefits copy
   url: benefits
   index: 3
   items:
   - name: Equipment Allowance
+    copy:
+    reccomendations:
+    - name: 
+      url: 
   - name: Health insurance
+    copy:
+    reccomendations:
+    - name: Zenefits
+      url: http://www.zenefits.com
+    - name: Maxwell Health
+      url: http://www.maxwellhealth.com
+    - name: Benefitter
+      url: http://www.benefitter.com/
+    - name: Spotlite
+      url: http://www.spotlite.com/
   - name: Life Insurance
+    copy:
+    reccomendations:
+    - name: Zenefits
+      url: http://www.zenefits.com
   - name: FSA (Flexible Spending Accounts)
+    copy:
+    reccomendations:
+    - name: Zenefits
+      url: http://www.zenefits.com
+    - name: Maxwell Health
+      url: http://www.maxwellhealth.com
   - name: Dental insurance
+    copy:
+    reccomendations:
+    - name: Zenefits
+      url: http://www.zenefits.com
+    - name: Maxwell Health
+      url: http://www.maxwellhealth.com
   - name: Mobile phone subsidies
+    copy:
+    reccomendations:
+    - name: 
+      url: 
   - name: Commuter benefits
-    copy: $100 Uber car credit each month or car service for late nights.
+    copy:
+    reccomendations:
+    - name: Zenefits
+      url: http://www.zenefits.com
+    - name: AnyPerk
+      url: http://www.AnyPerk.com
   - name: Parking Subsidies
+    copy:
+    reccomendations:
+    - name: 
+      url: 
   - name: PTO (Amount/ Unlimited)
-  - name: Special PTO (Birthday)
+    copy:
+    reccomendations:
+    - name: Zenefits
+      url: http://www.zenefits.com
+  - name: All In One Platforms
+    copy:
+    reccomendations:
+    - name: AnyPerk
+      url: http://www.AnyPerk.com
+    - name: Maxwell Health
+      url: http://www.maxwellhealth.com
+    - name: Spotlite
+      url: http://www.spotlite.com/
+    - name: Zenefits
+      url: http://www.zenefits.com
+    - name: Perkspot
+      url: http://www.perkspot.com
+    
   - name: Childcare
+    copy:
+    reccomendations:
+    - name: 
+      url: 
+    - name: AnyPerk
+      url: http://www.AnyPerk.com
   - name: Free Stuff/Company Swag/Merchandise
     copy: There's no better way to get your company name out there than by arming your team with branded goodies
+    reccomendations:
+    - name: 
+      url: 
   - name: Gym Membership/Stipend
+    copy: 
+    reccomendations:
+    - name: AnyPerk.com
+      url: http://www.anyperk.com
   - name: Employee discounts for own products
+    copy: 
+    reccomendations:
+    - name: 
+      url: 
   - name: Reward/Incentive Programs
     copy: Thrillist offers over-the-top breakfasts when a big deal is closed. Tumblr has "referral madness" — a teammate who refers someone who's hired gets a stipend for a team event, such as an outing to Medieval Times.
+    reccomendations:
+    - name: 
+      url: 
   - name: Free Online Services
     copy: Pandora, Rdio, etc
+    reccomendations:
+    - name: 
+      url:
   - name: Company Tab
     copy: Local coffeeshop, restaurant, put it on the company tab.	
+    reccomendations:
+    - name: 
+      url:
   - name: Employee onboarding
     copy: A creative welcome package. Warby Parker's includes a founder's favorite pretzels and a gift certificate to a Thai restaurant, since the founders lived off Thai food during their startup phase. ModCloth's has pens, notepads, a water bottle, mug, mousepad and tote.	
-
+    reccomendations:
+    - name: Zenefits
+      url: http://www.zenefits.com
+    - name: Spotlite
+      url: http://www.spotlite.com/
+    
 - name: Office Space
   url: officespace
   index: 4
@@ -110,86 +300,348 @@
     - name: Coffitivity
       url: http://www.coffitivity.com
   - name: Workspace style – open, cube, offices, hot desking, hotelling
+    copy: 
+    reccomendations:
+    - name: 
+      url:
   - name: Remote work
+    copy: 
+    reccomendations:
+    - name: Sqwiggle.com
+      url: https://www.sqwiggle.com/
   - name: Location
+    copy: 
+    reccomendations:
+    - name: 42Floors
+      url: http://www.42floors.com
   - name: Artwork/Interior finishes
+    copy: 
+    reccomendations:
+    - name: 
+      url:
   - name: Office Pet/dog friendly office
+    copy: 
+    reccomendations:
+    - name: AnyPerk
+      url: http://www.AnyPerk.com
   - name: 10 hour workdays, 4 day weeks
-  - name: ½ day Fridays
+    copy: 
+    reccomendations:
+    - name: 
+      url:
+  - name: 1/2 day Fridays
+    copy: 
+    reccomendations:
+    - name: 
+      url:
 
 - name: Play
   url: play
   index: 5
   items:
   - name: Team lunches
+    copy: 
+    reccomendations:
+    - name: 
+      url:
   - name: Fun Committee
+    copy: 
+    reccomendations:
+    - name: 
+      url:
   - name: Happy hour
+    copy: 
+    reccomendations:
+    - name: 
+      url:
   - name: Walking group
+    copy: 
+    reccomendations:
+    - name: 
+      url:
   - name: Monthly outings
+    copy: 
+    reccomendations:
+    - name: 
+      url:
   - name: Site tours
+    copy: 
+    reccomendations:
+    - name: 
+      url:
   - name: Charity events
+    copy: 
+    reccomendations:
+    - name: Causecast 
+      url: http://www.causecast.com/
   - name: Birthdays
+    copy: 
+    reccomendations:
+    - name: 
+      url:
   - name: Workshops
+    copy: 
+    reccomendations:
+    - name: 
+      url:
   - name: Kids day
+    copy: 
+    reccomendations:
+    - name: 
+      url:
   - name: Holiday events
+    copy: 
+    reccomendations:
+    - name: 
+      url:
   - name: Retreats
+    copy: 
+    reccomendations:
+    - name: 
+      url:
   - name: Sports together – kickball team
+    copy: 
+    reccomendations:
+    - name: 
+      url:
   - name: Fantasy football and March Madness tournaments
+    copy: 
+    reccomendations:
+    - name: 
+      url:
   - name: Barbeques
+    copy: 
+    reccomendations:
+    - name: 
+      url:
   - name: Tickets - Movies, Sports, etc
+    copy: 
+    reccomendations:
+    - name: AnyPerk
+      url: http://www.AnyPerk.com
   - name: weekly raffles
-  - name: Bocce ball
+    copy: 
+    reccomendations:
+    - name: 
+      url:
+  - name: Office Sports
+    copy: Bocce Ball, golf, etc, anything you can do onsite at your office building
+    reccomendations:
+    - name: 
+      url:
 
 - name: Office Rules
   url: rules
   index: 6
   items:
-  - name: Dress Code - recommend dry cleaning benefits if required business attire
+  - name: Dress Code
+    copy: recommend dry cleaning benefits if required business attire
+    reccomendations:
+    - name: Washio
+      url: http://www.getwashio.com/
   - name: Technology
+    copy: 
+    reccomendations:
+    - name: 
+      url:
   - name: Meetings
+    copy: 
+    reccomendations:
+    - name: Meeting Hero
+      url: http://www.meetinghero.com/
 
 - name: Communication 
   index: 7
   url: communication
   items:
   - name: Transparency
+    copy: 
+    reccomendations:
+    - name: 52 Metrics
+      url: http://www.52metrics.com/
   - name: Suggestions box
+    copy: 
+    reccomendations:
+    - name: Boxwire
+      url: http://www.boxwire.com
+    - name: HunchBuzz
+      url: http://www.hunchbuzz.com
+    - name: Vocoli
+      url: http://www.vocoli.com
+    - name: Mutual Force
+      url: http://www.mutualforce.com
+    - name: Vetter
+      url: http://www.getvetter.com
   - name: Stand up meetings
+    copy: 
+    reccomendations:
+    - name: 
+      url:
   - name: Monday huddle
+    copy: 
+    reccomendations:
+    - name: 
+      url:
   - name: Friday wrap up
+    copy: 
+    reccomendations:
+    - name: 
+      url:
   - name: Email- All company updates
+    copy: 
+    reccomendations:
+    - name: MailChimp 
+      url: http://www.mailchimp.com
+    - name: Constant Contact
+      url: http://www.constantcontact.com
   - name: Daily Media Articles
+    copy: 
+    reccomendations:
+    - name: 
+      url:
   - name: link sharing service internal
+    copy: linkydink
+    reccomendations:
+    - name: LinkyDink
+      url: http://www.linkydink.com
 
 - name: Food
   index: 8
   url: food
   items:
   - name: Free Coffee
+    copy: 
+    reccomendations:
+    - name: AnyPerk
+      url: http://www.AnyPerk.com
+    - name: 
+      url: https://www.craftcoffee.com/
+    - name: 
+      url: https://www.pactcoffee.com/
+    - name: 
+      url:
   - name: Free Refreshments (Non-alcoholic)
+    copy: 
+    reccomendations:
+    - name: 
+      url:
   - name: Free Refreshments (Alcoholic)
+    copy: 
+    reccomendations:
+    - name: 
+      url:
   - name: Free Snacks
+    copy: 
+    reccomendations:
+    - name: AnyPerk
+      url: http://www.AnyPerk.com
   - name: Expresso machine
+    copy: 
+    reccomendations:
+    - name: 
+      url:
   - name: Lunch subsidies
+    copy: 
+    reccomendations:
+    - name: 
+      url:
   - name: Catering meals (Breakfast, Lunch, or Dinner)
+    copy: 
+    reccomendations: 
+    - name: Eat Club
+      url: http://www.myeatclub.com
+    - name: Chewse
+      url: http://www.chewse.com
+    - name: EZCater
+      url: http://www.ezcater.com
+    - name: ZeroCater
+      url: http://www.zerocater.com
   - name: Fruit
+    copy: 
+    reccomendations:
+    - name: AnyPerk
+      url: http://www.AnyPerk.com
   - name: Milk for coffee
+    copy: 
+    reccomendations:
+    - name: 
+      url:
   - name: Themed food events “Donut Friday”, etc
+    copy: 
+    reccomendations:
+    - name: 
+      url:
 
 - name: Pay
   index: 9
   url: pay
   items:
   - name: Open salaries
-  - name: Hourly vs Salaried
+    copy: 
+    reccomendations:
+    - name: Buffer
+      url:
+  - name: Remuneration and Payroll
+    copy: 
+    reccomendations:
+    - name: Zenefits.com
+      url: http://www.zenefits.com
+    - name: Zen Payroll
+      url: http://www.zenpayroll.com
   - name: Bonus
+    copy: 
+    reccomendations:
+    - name: 
+      url:
   - name: Options/Stock
+    copy: 
+    reccomendations:
+    - name: 
+      url:
   - name: 401k (with/without Matching)
+    copy: 
+    reccomendations:
+    - name: Zenefits
+      url: http://www.zenefits.com
 
 - name: Learning
   url: learning
   index: 10
   items:
   - name: Lunch and Learn
+    copy: 
+    reccomendations:
+    - name: 
+      url:
   - name: Site Visits
+    copy: 
+    reccomendations:
+    - name: 
+      url:
+  - name: Financial Education
+    copy:
+    reccomendations:
+    - name: Emerge Benefit
+      url: https://www.emergebenefit.com/
 
+- name: People
+  url: people
+  index: 12
+  items:
+  - name: Good People/Talent
+    copy: 
+    reccomendations:
+    - name: Entelo
+      url: https://www.entelo.com/
+  - name: People Recognition
+    copy: 
+    reccomendations:
+    - name: Blueboard
+      url: https://www.blueboard.co/
+    - name: Kudough
+      url: http://www.kudough.com/
+  - name: Employee Wellness
+    copy: 
+    reccomendations:
+    - name: The Energy Project
+      url: http://theenergyproject.com/

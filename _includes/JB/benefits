@@ -7,9 +7,9 @@
 <table class="table table-hover table-condensed">
         <thead>
           <tr>
-            <th class="col-sm-2"></th>
-            <th class="col-sm-4"></th>
-            <th class="col-sm-2"></th>
+            <th class="col-xs-2"></th>
+            <th class="col-xs-4"></th>
+            <th class="col-xs-2"></th>
           </tr>
         </thead>
         <tbody>          
@@ -18,7 +18,7 @@
           {% for item in category.items %}
           <tr>
             <td>
-              <a href="https://github.com/{{ reccomendation.github }}"> <!--needs url to be fixed -->
+              <!--<a href="https://github.com/{{ reccomendation.github }}"> <!--needs url to be fixed -->
                 {{item.name}}
               </a>
             </td>
@@ -34,7 +34,7 @@
                     </thead>
                     <td>
                       <a href="{{ reccomendation.url }}">
-                        <img src="http://g.etfv.co/{{ reccomendation.url }}">
+                        <img src="http://g.etfv.co/{{ reccomendation.url }}?defaulticon=1pxgif" width="16" height="16">
                       </a>
                     </td>
                     <td>

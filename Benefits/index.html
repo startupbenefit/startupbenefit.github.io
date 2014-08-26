@@ -6,6 +6,23 @@ group: navigation
 ---
 {% include JB/setup %}
 
+<!--
+<div class="row">
+  
+    <div class="col-md-3"><div class="well">
+      {% for category in site.data.categories %}
+      <h2>
+        <a href="{{ BASE_PATH }}/Benefits/{{ category.url }}">{{ category.name }}</a></h2>
+      <div>{{category.copy}}</div>
+      <a href="{{ BASE_PATH }}/Benefits/{{ category.url }}">
+        <h2>Explore</h2>
+      </a>
+    </div>
+  {% endfor %}
+</div>
+-->
+
+
 <div class="table-responsive">
 <table class="table">
         <thead>

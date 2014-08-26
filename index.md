@@ -26,7 +26,7 @@ tagline: Startup Culture as a Service
             <ul class="nav navbar-nav"></ul>
             <form class="navbar-form" align="center" method="POST" action="http://forms.brace.io/graham1776@gmail.com">
               <div class="form-group">
-                <input type="text" name="Email" placeholder="you@domain.com" class="form-control">
+                <input type="email" name="email" placeholder="you@domain.com" class="form-control">
                 <input type="hidden" name="_next" value="http://startupbenefit.github.io/Benefits/index.html">
               </div>
               <button type="submit" class="btn btn-primary btn-lg">Beta Preview</button>
