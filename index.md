@@ -59,13 +59,13 @@ tagline: Startup Culture as a Service
         <div class="row">
           <h2> We recommend the best startup benefits:</h2>
           <div class="col-sm-4" align="center">
-              <img src="http://images.vcpost.com/data/images/full/13055/zenefits.jpg?w=590">
+              <img src="http://images.vcpost.com/data/images/full/13055/zenefits.jpg?w=590" width"150">
           </div>
           <div class="col-sm-4" align="center">
-              <img src="https://d3cillb28jbbby.cloudfront.net/assets/logos/290x290-3e11fb4e06bb00360a100f6387b157da.png">
+              <img src="https://d3cillb28jbbby.cloudfront.net/assets/logos/290x290-3e11fb4e06bb00360a100f6387b157da.png" width"150">
           </div>
           <div class="col-sm-4" align="center">
-              <img src="http://tech.co/wp-content/uploads/2012/05/zerocater.jpg">            
+              <img src="https://nytechday.com/system/participants/company_logos/000/000/037/medium/Zerocater_Banner.png?1389806440" width"150">            
           </div>
         </div>
         <footer align="center">
